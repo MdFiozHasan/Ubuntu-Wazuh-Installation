@@ -139,6 +139,7 @@ Logged into the server directly from the VirtualBox console, then connected remo
 Installed Java (required dependency), downloaded the official Wazuh install script, and ran the all-in-one deployment which provisions the Manager, Indexer, and Dashboard in a single pass.
 
 
+<img width="759" height="430" alt="w11" src="https://github.com/user-attachments/assets/616ccd96-e29c-4b32-bcd5-d70245995843" />
 
 
 
@@ -152,7 +153,8 @@ Installed Java (required dependency), downloaded the official Wazuh install scri
 
 Confirmed the VM's IP address (⁠ 192.168.1.20 ⁠) using ⁠ ip a ⁠ to ensure it is reachable from the host browser.
 
-![IP Address Verification](screenshots/18.png)
+<img width="815" height="207" alt="w22" src="https://github.com/user-attachments/assets/bf57b5a0-16fa-4af3-b102-eae27d278721" />
+
 
 ---
 
