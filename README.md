@@ -85,9 +85,12 @@ Downloaded Ubuntu Server 22.04.5 LTS from the official Canonical website.
 
 Configured the VM with name, ISO image path, OS type (Linux / Ubuntu 64-bit), RAM, CPU, and disk size.
 
-![VM Name & OS](screenshots/2.png)
-![Hardware — RAM & CPU](screenshots/3.png)
-![Hard Disk — 25 GB VDI](screenshots/4.png)
+<img width="671" height="573" alt="u2" src="https://github.com/user-attachments/assets/12081b78-59c7-4463-9888-32c6867a5836" />
+
+<img width="543" height="518" alt="u3" src="https://github.com/user-attachments/assets/dc1d935b-5816-4959-952e-42e7f276ba8b" />
+
+<img width="540" height="535" alt="u4" src="https://github.com/user-attachments/assets/7fd3a3ff-deb4-4df1-adcb-bf65db4eb790" />
+
 
 ---
 
