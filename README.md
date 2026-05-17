@@ -126,9 +126,10 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 Logged into the server directly from the VirtualBox console, then connected remotely using PuTTY over SSH.
 
-![First Login — Ubuntu Console](screenshots/13.png)
-![PuTTY — Host Configuration (192.168.1.20 :22)](screenshots/22.png)
-![PuTTY — Successful SSH Session](screenshots/23.png)
+<img width="867" height="585" alt="w5" src="https://github.com/user-attachments/assets/051e7431-88f9-4942-9458-2d2231c47d7c" />
+
+<img width="1600" height="676" alt="w2" src="https://github.com/user-attachments/assets/81604aef-c8d0-475e-9dcf-0e892bad3654" />
+
 
 ---
 
@@ -158,9 +159,10 @@ Confirmed the VM's IP address (⁠ 192.168.1.20 ⁠) using ⁠ ip a ⁠ 
 
 Navigated to ⁠ https://192.168.1.20 ⁠ from the host browser. Bypassed the self-signed TLS certificate warning (expected in a lab environment) and logged in with the auto-generated admin credentials.
 
-![Browser TLS Warning — Self-Signed Cert](screenshots/19.png)
-![Wazuh Login Page](screenshots/20.png)
-![Wazuh Dashboard Overview](screenshots/21.png)
+<img width="1600" height="678" alt="w1" src="https://github.com/user-attachments/assets/f2fc0611-3e17-4242-a1ad-7fb89f954cda" />
+
+<img width="1600" height="899" alt="w3" src="https://github.com/user-attachments/assets/eaf42f47-7de9-47f4-95f5-d380cb3df740" />
+
 
 ---
 
@@ -168,9 +170,12 @@ Navigated to ⁠ https://192.168.1.20 ⁠ from the host browser. Bypassed th
 
 Confirmed all three Wazuh components are active and running via ⁠ systemctl ⁠.
 
-![Wazuh Manager — Active (running)](screenshots/24.png)
-![Wazuh Indexer — Active (running)](screenshots/25.png)
-![Wazuh Dashboard — Active (running)](screenshots/26.png)
+<img width="1314" height="578" alt="w6" src="https://github.com/user-attachments/assets/25ae85c4-c1a9-4834-bcee-bf068711d693" />
+
+<img width="1451" height="370" alt="w7" src="https://github.com/user-attachments/assets/d8fc19ea-57d0-4095-a965-0731b18dafd6" />
+
+<img width="1464" height="432" alt="w8" src="https://github.com/user-attachments/assets/b937479d-d64e-4d42-9893-122e063887ce" />
+
 
 ---
 
