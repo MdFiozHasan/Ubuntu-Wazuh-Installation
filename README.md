@@ -90,7 +90,7 @@ Configured the VM with name, ISO image path, OS type (Linux / Ubuntu 64-bit), RA
 <img width="543" height="518" alt="u3" src="https://github.com/user-attachments/assets/dc1d935b-5816-4959-952e-42e7f276ba8b" />
 
 <img width="540" height="535" alt="u4" src="https://github.com/user-attachments/assets/7fd3a3ff-deb4-4df1-adcb-bf65db4eb790" />
-
+<img width="520" height="556" alt="u5" src="https://github.com/user-attachments/assets/6c8003d6-0348-4cc9-a61f-ea18fa290b99" />
 
 ---
 
@@ -98,7 +98,7 @@ Configured the VM with name, ISO image path, OS type (Linux / Ubuntu 64-bit), RA
 
 Walked through the full Ubuntu Server text-based installer — language, install type, network, proxy, mirror, and storage layout.
 
-<img width="520" height="556" alt="u5" src="https://github.com/user-attachments/assets/6c8003d6-0348-4cc9-a61f-ea18fa290b99" />
+
 
 <img width="1313" height="692" alt="u6" src="https://github.com/user-attachments/assets/715b3074-1e63-4880-a598-16d0cc7fdba8" />
 <img width="1265" height="764" alt="u7" src="https://github.com/user-attachments/assets/96676ab3-36ef-4a18-8079-b9c28febf309" />
@@ -114,6 +114,11 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 
 <img width="1278" height="377" alt="u12" src="https://github.com/user-attachments/assets/ebbed8bc-60d1-40ed-a856-0708059b3364" />
+<img width="1272" height="279" alt="u13" src="https://github.com/user-attachments/assets/dc68d82a-21c2-48ac-b333-bd8c71cac2af" />
+<img width="1274" height="666" alt="u14" src="https://github.com/user-attachments/assets/da7583fe-c104-42c0-bda8-b53b9317f207" />
+<img width="1265" height="390" alt="u15" src="https://github.com/user-attachments/assets/480f3734-b027-4569-b6fd-59266497d79c" />
+
+<img width="1470" height="931" alt="u16" src="https://github.com/user-attachments/assets/df065945-3f84-44f8-9fe2-5bcfe27789ad" />
 
 ---
 
@@ -131,10 +136,10 @@ Logged into the server directly from the VirtualBox console, then connected remo
 
 Installed Java (required dependency), downloaded the official Wazuh install script, and ran the all-in-one deployment which provisions the Manager, Indexer, and Dashboard in a single pass.
 
-<img width="1274" height="666" alt="u14" src="https://github.com/user-attachments/assets/da7583fe-c104-42c0-bda8-b53b9317f207" />
 
-<img width="1265" height="390" alt="u15" src="https://github.com/user-attachments/assets/480f3734-b027-4569-b6fd-59266497d79c" />
-<img width="1470" height="931" alt="u16" src="https://github.com/user-attachments/assets/df065945-3f84-44f8-9fe2-5bcfe27789ad" />
+
+
+
 
 
 ![Installation Complete — Credentials Displayed](screenshots/17.png)
