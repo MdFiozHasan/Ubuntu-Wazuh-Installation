@@ -130,6 +130,7 @@ Logged into the server directly from the VirtualBox console, then connected remo
 
 <img width="1600" height="676" alt="w2" src="https://github.com/user-attachments/assets/81604aef-c8d0-475e-9dcf-0e892bad3654" />
 
+<img width="721" height="712" alt="w4" src="https://github.com/user-attachments/assets/006a04dc-8fae-422a-a189-713602627773" />
 
 ---
 
