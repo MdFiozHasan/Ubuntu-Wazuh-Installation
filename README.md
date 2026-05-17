@@ -98,14 +98,22 @@ Configured the VM with name, ISO image path, OS type (Linux / Ubuntu 64-bit), RA
 
 Walked through the full Ubuntu Server text-based installer — language, install type, network, proxy, mirror, and storage layout.
 
-![GRUB Boot Menu](screenshots/5.png)
-![Language Selection — English](screenshots/6.png)
-![Installation Type — Ubuntu Server](screenshots/7.png)
-![Network Configuration — DHCPv4](screenshots/8.png)
-![Proxy Configuration — None](screenshots/9.png)
-![Archive Mirror — archive.ubuntu.com](screenshots/10.png)
-![Guided Storage Layout](screenshots/11.png)
-![Storage Summary — ext4 on /](screenshots/12.png)
+<img width="520" height="556" alt="u5" src="https://github.com/user-attachments/assets/6c8003d6-0348-4cc9-a61f-ea18fa290b99" />
+
+<img width="1313" height="692" alt="u6" src="https://github.com/user-attachments/assets/715b3074-1e63-4880-a598-16d0cc7fdba8" />
+<img width="1265" height="764" alt="u7" src="https://github.com/user-attachments/assets/96676ab3-36ef-4a18-8079-b9c28febf309" />
+
+
+<img width="1235" height="585" alt="u8" src="https://github.com/user-attachments/assets/a3de9bcf-0bf4-4af4-90de-4ea8e614d9da" />
+
+<img width="1089" height="551" alt="u9" src="https://github.com/user-attachments/assets/081fcf65-7382-402c-9472-de0cdc466f8b" />
+
+<img width="1171" height="466" alt="u10" src="https://github.com/user-attachments/assets/ef3db04b-d60e-4527-abfa-aefcfe3526be" />
+
+<img width="1152" height="650" alt="u11" src="https://github.com/user-attachments/assets/be7618f6-4a56-4761-b9a6-fb9d13f859c8" />
+
+
+<img width="1278" height="377" alt="u12" src="https://github.com/user-attachments/assets/ebbed8bc-60d1-40ed-a856-0708059b3364" />
 
 ---
 
@@ -123,9 +131,12 @@ Logged into the server directly from the VirtualBox console, then connected remo
 
 Installed Java (required dependency), downloaded the official Wazuh install script, and ran the all-in-one deployment which provisions the Manager, Indexer, and Dashboard in a single pass.
 
-![Installing Java JDK](screenshots/14.png)
-![Downloading wazuh-install.sh](screenshots/15.png)
-![Wazuh Installation in Progress](screenshots/16.png)
+<img width="1274" height="666" alt="u14" src="https://github.com/user-attachments/assets/da7583fe-c104-42c0-bda8-b53b9317f207" />
+
+<img width="1265" height="390" alt="u15" src="https://github.com/user-attachments/assets/480f3734-b027-4569-b6fd-59266497d79c" />
+<img width="1470" height="931" alt="u16" src="https://github.com/user-attachments/assets/df065945-3f84-44f8-9fe2-5bcfe27789ad" />
+
+
 ![Installation Complete — Credentials Displayed](screenshots/17.png)
 
 ---
